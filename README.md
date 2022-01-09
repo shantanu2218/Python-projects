@@ -8,7 +8,3 @@
   # Hypothesis testing
   # Basic data visualization using seaborn,matplotlib and pandas
   # EDA
-  
-  
-  
-
